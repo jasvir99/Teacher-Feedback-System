@@ -1,0 +1,10 @@
+# --------------------------------------------------------------------
+#  Common variables for Makefile
+# -------------------------------------------------------------------
+
+#   Input file name
+#   NOTE: Don't add .tex with file name
+
+FILENAME    =   srs
+INPUT       =   $(FILENAME).tex
+OUTPUT      =   $(FILENAME).pdf
