@@ -18,4 +18,4 @@ $(OUTPUT): input macro $(INPUT)
 # -------------------------------------------------------------------
 
 clean:
-	rm -f input/*.aux *.aux  *.log  *.pdf *.toc 
+	rm -f input/*.aux *.aux  *.log  *.pdf *.toc *.out *.cut
